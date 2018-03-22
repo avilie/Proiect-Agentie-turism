@@ -1,0 +1,8 @@
+tara1 - judet1 - oras1, oras5
+tara1 - judet2 - oras2
+
+tara2 - judet1 - oras3
+tara2 - judet2 - oras6
+
+tara3 - judet1 - oras4, oras8
+tara3 - judet2 - oras7

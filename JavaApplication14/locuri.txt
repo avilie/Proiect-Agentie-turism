@@ -1,0 +1,14 @@
+Vila Bran | Bran | 200 | (Tiroliana | Calarie | Tir) | 01/04/2018 - 31/12/2018
+Hotel Regal | Costinesti | 100 | (Plaja | Volei | Inot | Vapor) | 01/05/2018 - 01/10/2018
+West Motel | Bucuresti | 50 | (Boardgames) | 01/01/2018 - 31/12/2018
+Poiana Brasov | Brasov | 350 | (Schi | Sanie | Snowboard | Petreceri) | 01/11/2018 - 28/02/2018
+Hotel Opal | Neptun | 180 | (Plaja | Concerte | Parc distractie) | 01/05/2018 - 01/10/2018
+Hotel Mizuumi | Constanta | 500 | (Plaja | Piscina | Petreceri | Snooker) | 10/05/2018 - 30/09/2018
+Casa Frieda | Sibiu | 240 | (Biliard | Boardgames) | 01/01/2018 - 31/12/2018
+Therme | Bucuresti | 170 | (Aqua Fun | Pilates | Aqua Gim | Sauna | Kineto | Concerte) | 01/02/2018 - 01/12/2018
+Continental Forum | Sibiu | 280 | (Biliard | Karaoke | Piscina) | 01/01/2018 - 31/12/2018
+Pensiunea Toscana | Brasov | 170 | (ATV | Tir | Boardgames) | 01/03/2018 - 20/11/2018
+Radisson Blu | Bucuresti | 510 | (Fitness | Piscina | Snooker) | 01/01/2018 - 31/12/2018
+New Belvedere | Mangalia | 310 | (Plaja | Piscina | Spa | Fitness) | 15/05/2018 - 20/09/2018
+Salina Brasov | Brasov | 100 | (Masaj | Terapie) | 01/04/2018 - 05/10/2018
+Cetatea Rasnov | Rasnov | 50 | (Vizitat) | 15/03/2018 - 15/11/2018
