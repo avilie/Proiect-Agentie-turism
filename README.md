@@ -1,4 +1,4 @@
-# Proiect-Practica
+# Proiect Agentie turism
 
 ## TODO:
 ### De adaugat facilitatea cautarii folosind nume de tara sau judet pentru cerinta 2
